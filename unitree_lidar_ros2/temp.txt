@@ -1,0 +1,19 @@
+Warning: Invalid frame ID "unilidar_lidar" passed to canTransform argument target_frame - frame does not exist
+         at line 133 in /tmp/binarydeb/ros-foxy-tf2-0.13.14/src/buffer_core.cpp
+Warning: Invalid frame ID "unilidar_lidar" passed to canTransform argument target_frame - frame does not exist
+         at line 133 in /tmp/binarydeb/ros-foxy-tf2-0.13.14/src/buffer_core.cpp
+Warning: Invalid frame ID "unilidar_lidar" passed to canTransform argument target_frame - frame does not exist
+         at line 133 in /tmp/binarydeb/ros-foxy-tf2-0.13.14/src/buffer_core.cpp
+Warning: Invalid frame ID "unilidar_lidar" passed to canTransform argument target_frame - frame does not exist
+         at line 133 in /tmp/binarydeb/ros-foxy-tf2-0.13.14/src/buffer_core.cpp
+Warning: Invalid frame ID "unilidar_lidar" passed to canTransform argument target_frame - frame does not exist
+         at line 133 in /tmp/binarydeb/ros-foxy-tf2-0.13.14/src/buffer_core.cpp
+Warning: Invalid frame ID "unilidar_lidar" passed to canTransform argument target_frame - frame does not exist
+         at line 133 in /tmp/binarydeb/ros-foxy-tf2-0.13.14/src/buffer_core.cpp
+Warning: Invalid frame ID "unilidar_lidar" passed to canTransform argument target_frame - frame does not exist
+         at line 133 in /tmp/binarydeb/ros-foxy-tf2-0.13.14/src/buffer_core.cpp
+^C[INFO] [1758796207.123534081] [rclcpp]: signal_handler(signal_value=2)
+Warning: Invalid frame ID "unilidar_lidar" passed to canTransform argument target_frame - frame does not exist
+         at line 133 in /tmp/binarydeb/ros-foxy-tf2-0.13.14/src/buffer_core.cpp
+Warning: Invalid frame ID "unilidar_lidar" passed to canTransform argument target_frame - frame does not exist
+
