@@ -40,14 +40,9 @@ add_executable(unilidar_subscriber_udp
 target_link_libraries(unilidar_subscriber_udp  libunitree_lidar_sdk.a )
 
 # PCL转换器 (仅在找到PCL时编译)
-if(PCL_FOUND)
-    add_executable(udp_to_pcl_example
-      examples/udp_to_pcl_example.cpp
-    )
-    target_link_libraries(udp_to_pcl_example libunitree_lidar_sdk.a ${PCL_LIBRARIES})
-    
-    add_executable(simple_pcl_test
-      examples/simple_pcl_test.cpp
-    )
-    target_link_libraries(simple_pcl_test libunitree_lidar_sdk.a ${PCL_LIBRARIES})
-endif()
+# if(PCL_FOUND)
+#     add_executable(udp_to_pcl_example
+#       examples/udp_to_pcl_example.cpp
+#     )
+#     target_link_libraries(udp_to_pcl_example libunitree_lidar_sdk.a ${PCL_LIBRARIES})
+# endif()
